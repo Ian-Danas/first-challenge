@@ -40,12 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
-/* a {
-    color: #ffffff;
-    text-decoration: none;
-} */
-
+/* sets size of all paragraph elements */
 p {
     font-size: 16px;
 }
@@ -122,6 +117,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+                /* Footer */
 /* sets size, colors, and font for the footer */
 .footer {
     padding: 30px;
