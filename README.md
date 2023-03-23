@@ -1,8 +1,8 @@
 # first-challenge
 ## Description
 This project is a code refactor for an already exsiting website. This refactor serves to clean up the CSS file without changing the function of the website. This was done through consolidating like classes, Organizing classes by content they change, And adding comments to classes and IDs to make them easier to understand. Accessability features were also added through the use of the "alt" property on the images used in the HTML file.
-![image](./assets/images/webite-Capture.JPG)
 ## Installation
+![image](./assets/images/Website-Screenshot.JPG)
 Link to working website: https://ian-danas.github.io/first-challenge/
 N/A
 
@@ -13,7 +13,6 @@ N/A
 N/A
 
 ## License
-
-Please refer to the LICENSE in the repo
+N/A
 
 
