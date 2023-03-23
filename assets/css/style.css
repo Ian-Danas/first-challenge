@@ -6,7 +6,8 @@
 }
 /* sets background to webiste body to white */
 body {
-    background-color: #d9dcd6;
+    /* background-color: #d9dcd6; */
+    background-color: salmon;
 }
 /* sets all paragraph elements to have some font size */
 p {
