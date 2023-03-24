@@ -5,7 +5,7 @@ This project is a code refactor for an already exsiting website. This refactor s
 N/A
 
 ## Usage
-![image](./assets/images/Website-Screenshot.JPG)
+![image](./assets/images/ian-danas.github.io_first-challenge_.jpeg)
 Link to working website: https://ian-danas.github.io/first-challenge/
 N/A
 
